@@ -1,6 +1,9 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8985687&assignment_repo_type=AssignmentRepo)
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## Created by Kayla Nahda Muadzah_21343052
+Pada Ujian Tengah Semester ini kita membuat 3 buah program dari 3 tampilan soal yang telah diberikan. 
+
+- Pada soal pertama kita membuat program dengan bentuk perulangan bersarang atau biasa disebut Nested Loop. Kita membuat beberapa variabel dan fungsi FOR untuk digunakan pada perulangan.
+
+- Pada soal kedua kita membuat program untuk menampilkan hashtag (#) dan bintang (*). Kita juga menginput sebanyak 5 baris. Pada program ini kita menggunakan perulangan bersarang atau Nested Loop dengan fungsi FOR. Kita juga menyesuaikan tampilan sesuai dengan soal yang diberikan.
+
+- Pada soal ketiga kita membuat program untuk menampilkan apakah angka tersebut merupakan bilangan positif atau negatif. Kita juga menampilkan keterangan jika angka tersebut merupakan bilangan nol. Pada program ini kita menggunakan kelas JOptionPane dan juga kondisi IF, ELSE, dan ELSE IF. Setelah kita input kelas JOptionPane, membuat varibel angka, lalu kita membuat kondisi untuk menentukan jenis bilangan. Untuk bilangan positif kita menggunakan kondisi 'if(angka>0) {}'. Untuk bilangan negatif kita menggunakan kondisi 'else if(angka<0) {}'. Dan Untuk bilangan nol kita menggunakan kondisi 'else {}'.
