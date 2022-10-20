@@ -2,7 +2,7 @@
 ## Created by Kayla Nahda Muadzah_21343052
 Pada Ujian Tengah Semester ini kita membuat 3 buah program dari 3 tampilan soal yang telah diberikan. 
 
--Pada soal pertama kita membuat program dengan bentuk perulangan bersarang atau biasa disebut Nested Loop. Kita membuat beberapa variabel dan fungsi FOR untuk digunakan pada perulangan.
+- Pada soal pertama kita membuat program dengan bentuk perulangan bersarang atau biasa disebut Nested Loop. Kita membuat beberapa variabel dan fungsi FOR untuk digunakan pada perulangan.
 
 - Pada soal kedua kita membuat program untuk menampilkan hashtag (#) dan bintang (*). Kita juga menginput sebanyak 5 baris. Pada program ini kita menggunakan perulangan bersarang atau Nested Loop dengan fungsi FOR. Kita juga menyesuaikan tampilan sesuai dengan soal yang diberikan.
 
